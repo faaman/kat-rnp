@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find a place</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b1676ee-ca9e-4b07-ad85-f9f828d40d24</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a15243d9-f8e1-4c7b-a3fc-9a9d0c8d90c6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kinsale'</defaultValue>
+      <description></description>
+      <id>a15243d9-f8e1-4c7b-a3fc-9a9d0c8d90c6</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+</TestCaseEntity>

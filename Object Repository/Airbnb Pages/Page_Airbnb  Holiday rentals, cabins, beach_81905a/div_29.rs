@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_29</name>
+   <tag></tag>
+   <elementGuidId>762c6175-1bf1-4a91-b91e-ce5b7c1745ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.cg1lmd0.atm_73_usvi9m.atm_9j_tlke0l.atm_r3_1h6ojuz.atm_mk_h2mmj6.atm_kd_idpfg4_csw3t1.d1ahkqj3.atm_3f_idpfg4.atm_7l_dezgoh.atm_l8_idpfg4.atm_kd_glywfm.atm_3f_glywfm_jo46a5.atm_l8_idpfg4_jo46a5.atm_gi_idpfg4_jo46a5.atm_3f_glywfm_1icshfk.atm_kd_glywfm_19774hq.atm_uc_aaiy6o_1w3cfyq.atm_wq_kb7nvz_1w3cfyq.atm_5j_1osqo2v_1w3cfyq.atm_70_plng71_1w3cfyq.atm_uc_glywfm_1w3cfyq_1rrf6b5.atm_uc_aaiy6o_pfnrn2_1oszvuo.atm_wq_kb7nvz_pfnrn2_1oszvuo.atm_5j_1osqo2v_pfnrn2_1oszvuo.atm_70_plng71_pfnrn2_1oszvuo.atm_uc_glywfm_pfnrn2_1o31aam.lu83ix6.atm_6c_1y44olf.atm_45_1y44olf.h1jg7hw6.atm_26_116dmco.atm_6c_1ssbidh_1nos8r_uv4tnr.atm_45_1ssbidh_1nos8r_uv4tnr.dir.dir-ltr > div.p58w9eu.atm_9s_1bgihbq.dir.dir-ltr > div.c1i3jwjb.atm_gz_t94yts.atm_h0_t94yts.c1buxrsh.atm_c8_km0zk7.atm_g3_18khvle.atm_fr_1m9t47k.atm_9s_1txwivl.atm_h_1h6ojuz.atm_fc_1h6ojuz.atm_ar_1bp4okc.atm_5j_1osqo2v.atm_mk_h2mmj6.atm_cs_10d11i2.d1qdcyln.atm_7l_dezgoh.n1h9hfmv.hqicb26.atm_3f_1p4voxw.atm_7l_1p8m8iw_1nos8r.atm_26_dezgoh_1nos8r.atm_3f_1tfe5xk_1nos8r.dir.dir-ltr.notranslate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[5]/td[7]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;29, Sunday, December 2024. Available. Select as checkout date.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e624d765-f955-4181-a970-387a9dd77ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c1i3jwjb atm_gz_t94yts atm_h0_t94yts c1buxrsh atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_9s_1txwivl atm_h_1h6ojuz atm_fc_1h6ojuz atm_ar_1bp4okc atm_5j_1osqo2v atm_mk_h2mmj6 atm_cs_10d11i2 d1qdcyln atm_7l_dezgoh n1h9hfmv hqicb26 atm_3f_1p4voxw atm_7l_1p8m8iw_1nos8r atm_26_dezgoh_1nos8r atm_3f_1tfe5xk_1nos8r dir dir-ltr notranslate</value>
+      <webElementGuid>e3060b81-fd19-4482-8d62-405f09bd11f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>29/12/2024</value>
+      <webElementGuid>76c2ad36-18f0-4f33-9be0-774c4cdc5eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-day-blocked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9036386f-4bd9-4a73-a727-685c847e0239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>29</value>
+      <webElementGuid>50637dbf-514c-4207-9a49-1c8b7971c46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel--tabs--0&quot;)/div[@class=&quot;dioea41 atm_h_1h6ojuz__7pk1ck atm_9s_1txwivl__7pk1ck atm_ar_1bp4okc__7pk1ck atm_fc_1h6ojuz__7pk1ck dir dir-ltr&quot;]/div[@class=&quot;d1hw4v9n atm_e2_1osqo2v atm_j6_1665v6k dir dir-ltr&quot;]/div[@class=&quot;_g2s11rv&quot;]/div[1]/div[1]/div[@class=&quot;_14676s3&quot;]/div[@class=&quot;_1foj6yps&quot;]/div[@class=&quot;_2hyui6e&quot;]/div[@class=&quot;_1lds9wb&quot;]/div[@class=&quot;_ytfarf&quot;]/table[@class=&quot;_cvkwaj&quot;]/tbody[1]/tr[5]/td[@class=&quot;cg1lmd0 atm_73_usvi9m atm_9j_tlke0l atm_r3_1h6ojuz atm_mk_h2mmj6 atm_kd_idpfg4_csw3t1 d1ahkqj3 atm_3f_idpfg4 atm_7l_dezgoh atm_l8_idpfg4 atm_kd_glywfm atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_aaiy6o_1w3cfyq atm_wq_kb7nvz_1w3cfyq atm_5j_1osqo2v_1w3cfyq atm_70_plng71_1w3cfyq atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_uc_aaiy6o_pfnrn2_1oszvuo atm_wq_kb7nvz_pfnrn2_1oszvuo atm_5j_1osqo2v_pfnrn2_1oszvuo atm_70_plng71_pfnrn2_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam lu83ix6 atm_6c_1y44olf atm_45_1y44olf h1jg7hw6 atm_26_116dmco atm_6c_1ssbidh_1nos8r_uv4tnr atm_45_1ssbidh_1nos8r_uv4tnr dir dir-ltr&quot;]/div[@class=&quot;p58w9eu atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;c1i3jwjb atm_gz_t94yts atm_h0_t94yts c1buxrsh atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_9s_1txwivl atm_h_1h6ojuz atm_fc_1h6ojuz atm_ar_1bp4okc atm_5j_1osqo2v atm_mk_h2mmj6 atm_cs_10d11i2 d1qdcyln atm_7l_dezgoh n1h9hfmv hqicb26 atm_3f_1p4voxw atm_7l_1p8m8iw_1nos8r atm_26_dezgoh_1nos8r atm_3f_1tfe5xk_1nos8r dir dir-ltr notranslate&quot;]</value>
+      <webElementGuid>f6b602e8-e59a-46a2-ab3b-22a71064aa65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[5]/td[7]/div/div</value>
+      <webElementGuid>6fcfe7bb-09b1-476c-a5ef-d9ce6ea6076a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='December 2024'])[1]/following::div[58]</value>
+      <webElementGuid>b00f1e0a-2bf9-45f4-9cc2-797cc67f5c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='November 2024'])[1]/following::div[121]</value>
+      <webElementGuid>5b5b0746-fb7a-49f7-8c5b-c3022d22932c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='January 2025'])[1]/preceding::div[5]</value>
+      <webElementGuid>04b36a91-dfff-47d9-9b3c-123a11972d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='February 2025'])[1]/preceding::div[70]</value>
+      <webElementGuid>63904a4d-3373-4d4f-a8bc-58b3627a4c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[7]/div/div</value>
+      <webElementGuid>e6afc2ab-d4fb-481c-91b4-6b0b6b206bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '29' or . = '29')]</value>
+      <webElementGuid>3bfaa73a-5cad-4402-bcab-576690913432</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

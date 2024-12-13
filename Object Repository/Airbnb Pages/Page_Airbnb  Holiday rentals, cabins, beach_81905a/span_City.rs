@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_City</name>
+   <tag></tag>
+   <elementGuidId>aa1339b4-d35c-4042-9dbd-ac4637431f5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.t5i37sl.atm_7l_jt7fhx.atm_c8_km0zk7.atm_g3_18khvle.atm_fr_1m9t47k.dir.dir-ltr > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;option-0&quot;] >> internal:text=&quot;City&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c6d489f3-5b50-4a8f-a112-0a9bbf96b141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> City</value>
+      <webElementGuid>8785843e-cc58-4675-966b-599d8253c00f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;t142a8it atm_j_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;t5i37sl atm_7l_jt7fhx atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k dir dir-ltr&quot;]/span[1]</value>
+      <webElementGuid>f9d3d933-2b92-4923-ae29-4097b93a5bec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/span</value>
+      <webElementGuid>fda2a031-8472-43d3-978f-88c98c272e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Galway'])[1]/following::span[1]</value>
+      <webElementGuid>5851bd98-a094-40b7-967c-6e3fbfb6bad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where'])[1]/following::span[3]</value>
+      <webElementGuid>67b2f77a-60cc-47b9-b995-faec7f1329aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clifden'])[1]/preceding::span[2]</value>
+      <webElementGuid>05a258e4-195c-4346-9063-07f2fa744202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City centre'])[1]/preceding::span[2]</value>
+      <webElementGuid>af5154f5-8831-495a-95db-29ce9fdfde16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='City']/parent::*</value>
+      <webElementGuid>b69a9d38-ef5f-45ff-99f2-0d4f78d70a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span</value>
+      <webElementGuid>ee0cd841-79d0-4db6-a204-eb9d6d765426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' City' or . = ' City')]</value>
+      <webElementGuid>978065a0-3e32-47b4-a202-f7b703e31eb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

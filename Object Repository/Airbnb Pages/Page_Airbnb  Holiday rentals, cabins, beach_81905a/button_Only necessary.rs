@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Only necessary</name>
+   <tag></tag>
+   <elementGuidId>3cbe79c5-dab1-4f30-a811-0864882697b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[96]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Only necessary&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f7c2024a-d2eb-4342-834e-5c6f47891619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>db056005-e099-4726-aba6-43df922c1b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l1ovpqvx atm_1he2i46_1k8pnbi_10saat9 atm_yxpdqi_1pv6nv4_10saat9 atm_1a0hdzc_w1h1e8_10saat9 atm_2bu6ew_929bqk_10saat9 atm_12oyo1u_73u7pn_10saat9 atm_fiaz40_1etamxe_10saat9 bmx2gr4 atm_9j_tlke0l atm_9s_1o8liyq atm_gi_idpfg4 atm_mk_h2mmj6 atm_r3_1h6ojuz atm_rd_glywfm atm_70_5j5alw atm_tl_1gw4zv3 atm_9j_13gfvf7_1o5j5ji c1ih3c6 atm_bx_48h72j atm_cs_10d11i2 atm_5j_t09oo2 atm_kd_glywfm atm_uc_1lizyuv atm_r2_1j28jx2 atm_jb_1fkumsa atm_3f_glywfm atm_26_18sdevw atm_7l_1v2u014 atm_8w_1t7jgwy atm_uc_glywfm__1rrf6b5 atm_kd_glywfm_1w3cfyq atm_uc_aaiy6o_1w3cfyq atm_70_1b8lkes_1w3cfyq atm_3f_glywfm_e4a3ld atm_l8_idpfg4_e4a3ld atm_gi_idpfg4_e4a3ld atm_3f_glywfm_1r4qscq atm_kd_glywfm_6y7yyg atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_kd_glywfm_pfnrn2_1oszvuo atm_uc_aaiy6o_pfnrn2_1oszvuo atm_70_1b8lkes_pfnrn2_1oszvuo atm_3f_glywfm_1icshfk_1oszvuo atm_l8_idpfg4_1icshfk_1oszvuo atm_gi_idpfg4_1icshfk_1oszvuo atm_3f_glywfm_b5gff8_1oszvuo atm_kd_glywfm_2by9w9_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam atm_tr_18md41p_csw3t1 atm_k4_kb7nvz_1o5j5ji atm_3f_glywfm_1nos8r_uv4tnr atm_26_wcf0q_1nos8r_uv4tnr atm_7l_1v2u014_1nos8r_uv4tnr atm_3f_glywfm_4fughm_uv4tnr atm_26_4ccpr2_4fughm_uv4tnr atm_7l_1v2u014_4fughm_uv4tnr atm_3f_glywfm_csw3t1 atm_26_wcf0q_csw3t1 atm_7l_1v2u014_csw3t1 atm_7l_1v2u014_pfnrn2 atm_3f_glywfm_1o5j5ji atm_26_4ccpr2_1o5j5ji atm_7l_1v2u014_1o5j5ji f1hzc007 atm_vy_1osqo2v b1sbs18w atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_l8_182pks8 dir dir-ltr</value>
+      <webElementGuid>392be8cd-26ae-463c-9fbb-7691e46f4518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Only necessary</value>
+      <webElementGuid>69188c10-3144-4450-a859-096f0b9497f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-application&quot;)/div[1]/div[@class=&quot;t1bgcr6e  cjz5kiq&quot;]/div[1]/div[1]/div[@class=&quot;c5vrlhl atm_mk_1n9t6rb atm_fq_idpfg4 atm_vy_1osqo2v atm_wq_z68epy atm_lk_1ph3nq8 atm_ll_1ph3nq8 sbhok83 atm_p_1wv4lnm atm_tw_1tftv22 atm_ubcqrc_ccgtyg atm_p_p3f3nu__1rrf6b5 dir dir-ltr&quot;]/section[@class=&quot;imqckrr atm_j3_795ys9 atm_h0_1wugsn5 atm_gz_1wugsn5 atm_l8_1ixj6vq atm_ks_15vqwwr atm_2d_1p8m8iw atm_70_rgs8xj atm_5j_t09oo2 dir dir-ltr&quot;]/div[@class=&quot;s1dowlpe atm_iy_1rxhsqz atm_l1_1wugsn5 atm_9s_1txwivl atm_ar_1bp4okc atm_be_1g80g66__oggzyc dir dir-ltr&quot;]/div[@class=&quot;mv91188 atm_9s_1txwivl atm_ar_1bp4okc atm_gi_1yuitx atm_h3_8tjzot atm_h3_1yuitx__oggzyc atm_ar_vrvcex__oggzyc dir dir-ltr&quot;]/div[@class=&quot;b16xa5oq atm_gi_1pzushe atm_jb_8wlvj5__oggzyc atm_gi_idpfg4__oggzyc atm_jb_rvwng3__1v156lz i1ckokof atm_h0_1gibeiw__oggzyc dir dir-ltr&quot;]/button[@class=&quot;l1ovpqvx atm_1he2i46_1k8pnbi_10saat9 atm_yxpdqi_1pv6nv4_10saat9 atm_1a0hdzc_w1h1e8_10saat9 atm_2bu6ew_929bqk_10saat9 atm_12oyo1u_73u7pn_10saat9 atm_fiaz40_1etamxe_10saat9 bmx2gr4 atm_9j_tlke0l atm_9s_1o8liyq atm_gi_idpfg4 atm_mk_h2mmj6 atm_r3_1h6ojuz atm_rd_glywfm atm_70_5j5alw atm_tl_1gw4zv3 atm_9j_13gfvf7_1o5j5ji c1ih3c6 atm_bx_48h72j atm_cs_10d11i2 atm_5j_t09oo2 atm_kd_glywfm atm_uc_1lizyuv atm_r2_1j28jx2 atm_jb_1fkumsa atm_3f_glywfm atm_26_18sdevw atm_7l_1v2u014 atm_8w_1t7jgwy atm_uc_glywfm__1rrf6b5 atm_kd_glywfm_1w3cfyq atm_uc_aaiy6o_1w3cfyq atm_70_1b8lkes_1w3cfyq atm_3f_glywfm_e4a3ld atm_l8_idpfg4_e4a3ld atm_gi_idpfg4_e4a3ld atm_3f_glywfm_1r4qscq atm_kd_glywfm_6y7yyg atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_kd_glywfm_pfnrn2_1oszvuo atm_uc_aaiy6o_pfnrn2_1oszvuo atm_70_1b8lkes_pfnrn2_1oszvuo atm_3f_glywfm_1icshfk_1oszvuo atm_l8_idpfg4_1icshfk_1oszvuo atm_gi_idpfg4_1icshfk_1oszvuo atm_3f_glywfm_b5gff8_1oszvuo atm_kd_glywfm_2by9w9_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam atm_tr_18md41p_csw3t1 atm_k4_kb7nvz_1o5j5ji atm_3f_glywfm_1nos8r_uv4tnr atm_26_wcf0q_1nos8r_uv4tnr atm_7l_1v2u014_1nos8r_uv4tnr atm_3f_glywfm_4fughm_uv4tnr atm_26_4ccpr2_4fughm_uv4tnr atm_7l_1v2u014_4fughm_uv4tnr atm_3f_glywfm_csw3t1 atm_26_wcf0q_csw3t1 atm_7l_1v2u014_csw3t1 atm_7l_1v2u014_pfnrn2 atm_3f_glywfm_1o5j5ji atm_26_4ccpr2_1o5j5ji atm_7l_1v2u014_1o5j5ji f1hzc007 atm_vy_1osqo2v b1sbs18w atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_l8_182pks8 dir dir-ltr&quot;]</value>
+      <webElementGuid>e962c0fe-3438-45ab-845c-da7d2287bcb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[96]</value>
+      <webElementGuid>31954363-6e34-4f6d-a282-2ff4c077d466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-application']/div/div/div/div/div[8]/section/div/div[2]/div[2]/button</value>
+      <webElementGuid>f8b9c9f0-e8fe-46fb-a2ca-d00375465e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept all'])[1]/following::button[1]</value>
+      <webElementGuid>1af6b4f2-b86f-4563-b937-4a39f39f967f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airbnb cookie policy'])[1]/following::button[2]</value>
+      <webElementGuid>7a15b366-2c1c-4e10-8e5e-2ad5ff3be6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage preferences'])[1]/preceding::button[1]</value>
+      <webElementGuid>21842157-798d-4c38-89c6-788a43037422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Only necessary']/parent::*</value>
+      <webElementGuid>60d353c0-f4bb-4ae7-9d24-afb9d9f0745f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/div[2]/button</value>
+      <webElementGuid>46ad134e-5833-4c04-ac1e-235e54c0936a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Only necessary' or . = 'Only necessary')]</value>
+      <webElementGuid>d8cc9562-c8f9-4e9d-a506-613037503020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

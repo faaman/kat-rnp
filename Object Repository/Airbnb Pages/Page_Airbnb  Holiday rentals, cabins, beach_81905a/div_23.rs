@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_23</name>
+   <tag></tag>
+   <elementGuidId>eeb1d77b-b634-43f8-8407-a392972a1797</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td.cg1lmd0.atm_73_usvi9m.atm_9j_tlke0l.atm_r3_1h6ojuz.atm_mk_h2mmj6.atm_kd_idpfg4_csw3t1.d1ahkqj3.atm_3f_idpfg4.atm_7l_dezgoh.atm_l8_idpfg4.atm_kd_glywfm.atm_3f_glywfm_jo46a5.atm_l8_idpfg4_jo46a5.atm_gi_idpfg4_jo46a5.atm_3f_glywfm_1icshfk.atm_kd_glywfm_19774hq.atm_uc_aaiy6o_1w3cfyq.atm_wq_kb7nvz_1w3cfyq.atm_5j_1osqo2v_1w3cfyq.atm_70_plng71_1w3cfyq.atm_uc_glywfm_1w3cfyq_1rrf6b5.atm_uc_aaiy6o_pfnrn2_1oszvuo.atm_wq_kb7nvz_pfnrn2_1oszvuo.atm_5j_1osqo2v_pfnrn2_1oszvuo.atm_70_plng71_pfnrn2_1oszvuo.atm_uc_glywfm_pfnrn2_1o31aam.f10fi74l.atm_6a_1y44olf.atm_43_1y44olf.dir.dir-ltr > div.p58w9eu.atm_9s_1bgihbq.dir.dir-ltr > div.c1i3jwjb.atm_gz_t94yts.atm_h0_t94yts.c1buxrsh.atm_c8_km0zk7.atm_g3_18khvle.atm_fr_1m9t47k.atm_9s_1txwivl.atm_h_1h6ojuz.atm_fc_1h6ojuz.atm_ar_1bp4okc.atm_5j_1osqo2v.atm_mk_h2mmj6.atm_cs_10d11i2.d1qdcyln.atm_7l_dezgoh.atm_3f_glywfm.n1h9hfmv.atm_26_1p8m8iw_1nos8r.atm_3f_1vpejwz_1nos8r.dir.dir-ltr.notranslate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[5]/td/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;23, Monday, December 2024. Available. Select as check-in date.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>684d4330-580b-44cc-9085-65fd56234813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c1i3jwjb atm_gz_t94yts atm_h0_t94yts c1buxrsh atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_9s_1txwivl atm_h_1h6ojuz atm_fc_1h6ojuz atm_ar_1bp4okc atm_5j_1osqo2v atm_mk_h2mmj6 atm_cs_10d11i2 d1qdcyln atm_7l_dezgoh atm_3f_glywfm n1h9hfmv atm_26_1p8m8iw_1nos8r atm_3f_1vpejwz_1nos8r dir dir-ltr notranslate</value>
+      <webElementGuid>bf0da57a-fd8f-41f2-8444-cd0fefd200cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>23/12/2024</value>
+      <webElementGuid>cd1c12ff-fcfb-4906-9776-76337b63d454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-day-blocked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>71bddb12-06e3-42a8-bd40-cf0279a913a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>bfca0e32-8d91-4aa6-87f4-7831c3a9c0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel--tabs--0&quot;)/div[@class=&quot;dioea41 atm_h_1h6ojuz__7pk1ck atm_9s_1txwivl__7pk1ck atm_ar_1bp4okc__7pk1ck atm_fc_1h6ojuz__7pk1ck dir dir-ltr&quot;]/div[@class=&quot;d1hw4v9n atm_e2_1osqo2v atm_j6_1665v6k dir dir-ltr&quot;]/div[@class=&quot;_g2s11rv&quot;]/div[1]/div[1]/div[@class=&quot;_14676s3&quot;]/div[@class=&quot;_1foj6yps&quot;]/div[@class=&quot;_2hyui6e&quot;]/div[@class=&quot;_1lds9wb&quot;]/div[@class=&quot;_ytfarf&quot;]/table[@class=&quot;_cvkwaj&quot;]/tbody[1]/tr[5]/td[@class=&quot;cg1lmd0 atm_73_usvi9m atm_9j_tlke0l atm_r3_1h6ojuz atm_mk_h2mmj6 atm_kd_idpfg4_csw3t1 d1ahkqj3 atm_3f_idpfg4 atm_7l_dezgoh atm_l8_idpfg4 atm_kd_glywfm atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_aaiy6o_1w3cfyq atm_wq_kb7nvz_1w3cfyq atm_5j_1osqo2v_1w3cfyq atm_70_plng71_1w3cfyq atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_uc_aaiy6o_pfnrn2_1oszvuo atm_wq_kb7nvz_pfnrn2_1oszvuo atm_5j_1osqo2v_pfnrn2_1oszvuo atm_70_plng71_pfnrn2_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam f10fi74l atm_6a_1y44olf atm_43_1y44olf dir dir-ltr&quot;]/div[@class=&quot;p58w9eu atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;c1i3jwjb atm_gz_t94yts atm_h0_t94yts c1buxrsh atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k atm_9s_1txwivl atm_h_1h6ojuz atm_fc_1h6ojuz atm_ar_1bp4okc atm_5j_1osqo2v atm_mk_h2mmj6 atm_cs_10d11i2 d1qdcyln atm_7l_dezgoh atm_3f_glywfm n1h9hfmv atm_26_1p8m8iw_1nos8r atm_3f_1vpejwz_1nos8r dir dir-ltr notranslate&quot;]</value>
+      <webElementGuid>ab20fbb1-646b-4dda-a756-61338f061277</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[5]/td/div/div</value>
+      <webElementGuid>50aa8897-0cce-49e5-9f81-0ee5550c93c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='December 2024'])[1]/following::div[46]</value>
+      <webElementGuid>41bd7413-4a46-4196-8354-d56c74195dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='November 2024'])[1]/following::div[109]</value>
+      <webElementGuid>6eff67da-58ee-42db-8bf8-7f14130dcd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='January 2025'])[1]/preceding::div[17]</value>
+      <webElementGuid>16a72f7a-286a-4c4b-97d1-e5e5e8aabf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='February 2025'])[1]/preceding::div[82]</value>
+      <webElementGuid>06311c7d-3c3b-4f04-83df-3df104f35b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[5]/td/div/div</value>
+      <webElementGuid>eb2d9569-c2c1-495a-8408-1c53ff3dd2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '23' or . = '23')]</value>
+      <webElementGuid>7aa0f8fc-20e4-44e2-9d01-19b020c9dbd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

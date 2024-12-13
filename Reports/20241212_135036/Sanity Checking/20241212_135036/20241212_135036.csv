@@ -1,0 +1,44 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sanity Checking,Firefox 133.0,,,12-12-2024 13:51:18,12-12-2024 13:54:23,3m - 4.671s,PASSED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a place,Firefox 133.0,,,12-12-2024 13:51:18,12-12-2024 13:52:35,1m - 16.773s,PASSED
+"openBrowser("""")",Firefox 133.0,,,12-12-2024 13:51:18,12-12-2024 13:51:23,4.017s,PASSED
+"navigateToUrl(""https://www.airbnb.ie/?locale=en&_set_bev_on_new_domain=1734008142_EAYTk3MmM1MTJhNW"")",Firefox 133.0,,,12-12-2024 13:51:23,12-12-2024 13:51:23,0.980s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/button_Only necessary""))",Firefox 133.0,,,12-12-2024 13:51:23,12-12-2024 13:51:28,4.167s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/input_Where_query""), city)",Firefox 133.0,,,12-12-2024 13:51:28,12-12-2024 13:51:29,0.867s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/span_City""))",Firefox 133.0,,,12-12-2024 13:51:29,12-12-2024 13:51:30,1.395s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/div_23""))",Firefox 133.0,,,12-12-2024 13:51:30,12-12-2024 13:51:31,0.642s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/svg""))",Firefox 133.0,,,12-12-2024 13:51:31,12-12-2024 13:51:31,0.625s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/div_29""))",Firefox 133.0,,,12-12-2024 13:51:31,12-12-2024 13:51:32,0.505s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Firefox 133.0,,,12-12-2024 13:51:32,12-12-2024 13:51:32,0.545s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Galway  Holiday Rentals  Place_8e00a8/span_Learn how we sort results""))",Firefox 133.0,,,12-12-2024 13:51:32,12-12-2024 13:52:04,31.538s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Galway  Holiday Rentals  Place_8e00a8/span_Learn how we sort results""), ""Learn how we sort results"")",Firefox 133.0,,,12-12-2024 13:52:04,12-12-2024 13:52:34,30.282s,PASSED
+closeBrowser(),Firefox 133.0,,,12-12-2024 13:52:34,12-12-2024 13:52:35,1.054s,PASSED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a place,Firefox 133.0,,,12-12-2024 13:52:35,12-12-2024 13:53:21,46.264s,PASSED
+"openBrowser("""")",Firefox 133.0,,,12-12-2024 13:52:35,12-12-2024 13:52:38,3.103s,PASSED
+"navigateToUrl(""https://www.airbnb.ie/?locale=en&_set_bev_on_new_domain=1734008142_EAYTk3MmM1MTJhNW"")",Firefox 133.0,,,12-12-2024 13:52:38,12-12-2024 13:52:39,1.176s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/button_Only necessary""))",Firefox 133.0,,,12-12-2024 13:52:39,12-12-2024 13:52:43,3.615s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/input_Where_query""), city)",Firefox 133.0,,,12-12-2024 13:52:43,12-12-2024 13:52:44,0.519s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/span_City""))",Firefox 133.0,,,12-12-2024 13:52:44,12-12-2024 13:52:45,1.207s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/div_23""))",Firefox 133.0,,,12-12-2024 13:52:45,12-12-2024 13:52:45,0.631s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/svg""))",Firefox 133.0,,,12-12-2024 13:52:45,12-12-2024 13:52:46,0.879s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/div_29""))",Firefox 133.0,,,12-12-2024 13:52:46,12-12-2024 13:52:47,0.514s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Firefox 133.0,,,12-12-2024 13:52:47,12-12-2024 13:52:47,0.578s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Galway  Holiday Rentals  Place_8e00a8/span_Learn how we sort results""))",Firefox 133.0,,,12-12-2024 13:52:47,12-12-2024 13:53:15,27.860s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Galway  Holiday Rentals  Place_8e00a8/span_Learn how we sort results""), ""Learn how we sort results"")",Firefox 133.0,,,12-12-2024 13:53:15,12-12-2024 13:53:20,5.172s,PASSED
+closeBrowser(),Firefox 133.0,,,12-12-2024 13:53:20,12-12-2024 13:53:21,0.986s,PASSED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a place,Firefox 133.0,,,12-12-2024 13:53:21,12-12-2024 13:54:23,1m - 1.480s,PASSED
+"openBrowser("""")",Firefox 133.0,,,12-12-2024 13:53:21,12-12-2024 13:53:25,3.247s,PASSED
+"navigateToUrl(""https://www.airbnb.ie/?locale=en&_set_bev_on_new_domain=1734008142_EAYTk3MmM1MTJhNW"")",Firefox 133.0,,,12-12-2024 13:53:25,12-12-2024 13:53:26,0.876s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/button_Only necessary""))",Firefox 133.0,,,12-12-2024 13:53:26,12-12-2024 13:53:29,3.727s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/input_Where_query""), city)",Firefox 133.0,,,12-12-2024 13:53:29,12-12-2024 13:53:30,0.522s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/span_City""))",Firefox 133.0,,,12-12-2024 13:53:30,12-12-2024 13:53:31,1.206s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/div_23""))",Firefox 133.0,,,12-12-2024 13:53:31,12-12-2024 13:53:32,0.645s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/svg""))",Firefox 133.0,,,12-12-2024 13:53:32,12-12-2024 13:53:32,0.714s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/div_29""))",Firefox 133.0,,,12-12-2024 13:53:32,12-12-2024 13:53:33,0.492s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Firefox 133.0,,,12-12-2024 13:53:33,12-12-2024 13:53:33,0.552s,PASSED
+"click(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Galway  Holiday Rentals  Place_8e00a8/span_Learn how we sort results""))",Firefox 133.0,,,12-12-2024 13:53:33,12-12-2024 13:53:52,18.199s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Airbnb Pages/Page_Airbnb  Galway  Holiday Rentals  Place_8e00a8/span_Learn how we sort results""), ""Learn how we sort results"")",Firefox 133.0,,,12-12-2024 13:53:52,12-12-2024 13:54:22,30.263s,PASSED
+closeBrowser(),Firefox 133.0,,,12-12-2024 13:54:22,12-12-2024 13:54:23,1.021s,PASSED
