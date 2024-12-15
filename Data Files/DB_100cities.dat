@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DB_100cities</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>f477ec39-dfd9-4975-9018-2fc40bc450f7</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://localhost:5432/postgres?currentSchema=katalon_studio</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>Postgres</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>select city from db_ddt</query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <user></user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

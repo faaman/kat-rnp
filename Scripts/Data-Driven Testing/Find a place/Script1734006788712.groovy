@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint'), false)
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.airbnb.ie/?locale=en&_set_bev_on_new_domain=1734008142_EAYTk3MmM1MTJhNW')

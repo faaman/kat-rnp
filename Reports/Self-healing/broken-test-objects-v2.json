@@ -1,24 +1,3 @@
 {
-  "brokenTestObjects": [
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Airbnb Pages/Page_Search/div_Search",
-      "brokenLocator": "//div[@id\u003d\u0027search-tabpanel\u0027]/div/div[5]/div[2]/div[2]/button/div",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Add guests\u0027])[2]/following::div[2]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Airbnb Pages/Page_Search/div_Search_neighbor.png"
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/button_Only necessary",
-      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[96]",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "//div[@id\u003d\u0027react-application\u0027]/div/div/div/div/div[8]/section/div/div[2]/div[2]/button",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Airbnb Pages/Page_Airbnb  Holiday rentals, cabins, beach_81905a/button_Only necessary_idRelative.png"
-    }
-  ]
+  "brokenTestObjects" : [ ]
 }

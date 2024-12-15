@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <db-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>jdbc:postgresql://localhost:5432/postgres?currentSchema=katalon_studio</source-url>
+      <source-type>DBData</source-type>
+      <is-using-global-db-setting>false</is-using-global-db-setting>
+      <is-secure-user-account>false</is-secure-user-account>
+      <user></user>
+      <password></password>
+      <query><![CDATA[select * from db_ddt]]></query>
+      <driverClassName>Postgres</driverClassName>
+      <connectionProperties/>
+   </db-source-info>
+   <taken-date>2024-12-14T14:56:37.291Z</taken-date>
+   <column-names>
+      <column-name>city</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Brighton",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Belfast",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Bath",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
